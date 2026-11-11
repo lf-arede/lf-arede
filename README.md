@@ -24,9 +24,15 @@ Análise de vendas, clientes e concorrência para quem não tem uma área de dad
 
 <br/><br/>
 
-<code>typescript</code> · <code>node</code> · <code>postgres</code> · <code>python</code> · <code>docker</code>
+<a href="https://arede.cloud"><img src="https://img.shields.io/badge/arede.cloud-2b4acb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="arede.cloud"/></a>
+<a href="https://www.linkedin.com/in/lf-arede/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-<sub><a href="https://arede.cloud">arede.cloud</a> · <a href="https://www.linkedin.com/in/lf-arede">linkedin</a> · just one more map</sub>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,postgres,python,docker&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,python,docker&theme=light" height="32" alt="TypeScript, Node.js, PostgreSQL, Python, Docker"/>
+</picture>
 
 <!-- you found a Mirror of Kalandra. don't vendor it. -->
 
