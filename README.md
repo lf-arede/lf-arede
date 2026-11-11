@@ -30,8 +30,8 @@ Análise de vendas, clientes e concorrência para quem não tem uma área de dad
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nodejs,postgres,python,docker&theme=dark"/>
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,python,docker&theme=light" height="32" alt="TypeScript, Node.js, PostgreSQL, Python, Docker"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cpostgres%2Cpython%2Cdocker&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts%2Cnodejs%2Cpostgres%2Cpython%2Cdocker&theme=light" height="32" alt="TypeScript, Node.js, PostgreSQL, Python, Docker"/>
 </picture>
 
 <!-- you found a Mirror of Kalandra. don't vendor it. -->
