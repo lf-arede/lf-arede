@@ -1,31 +1,33 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f08,100:a3631b&height=160&section=header&text=Felipe%20Arede&fontColor=e8c27a&fontSize=46&animation=fadeIn" alt="Felipe Arede" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=1400&color=C8963E&center=true&vCenter=true&width=480&lines=Data+products+for+retail;Freelance%3A+CRM%2C+analytics%2C+automation;Vibe+coding+with+Claude+Code;Still+sane%2C+exile%3F" alt="Still sane, exile?"/>
-
-🇧🇷 Analista de inteligência de mercado que virou construtor de produtos de dados. Freelancer em analytics, CRM e automação para o varejo, no Rio de Janeiro.
-
-🇺🇸 Market intelligence analyst turned data product builder. Freelancing on analytics, CRM and automation for retail, from Rio de Janeiro.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/>
+  <img src="assets/banner-light.svg" width="100%" alt="Felipe Arede: inteligência de mercado sob demanda"/>
+</picture>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=lf-arede&hide_border=true&background=00000000&ring=a3631b&fire=e8c27a&currStreakNum=c8963e&sideNums=c8963e&currStreakLabel=c8963e&sideLabels=8b949e&dates=8b949e&stroke=a3631b" alt="Contribution streak"/>
+Análise de vendas, clientes e concorrência para quem não tem uma área de dados.<br/>
+<sub>Sales, customer and competitor analysis for teams without a data department.</sub>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lf-arede&hide_border=true&background=00000000&ring=8ea2ff&fire=8ea2ff&currStreakNum=f4f2ec&sideNums=f4f2ec&currStreakLabel=8ea2ff&sideLabels=a9aeb8&dates=a9aeb8&stroke=2c3240"/>
+  <img src="https://streak-stats.demolab.com?user=lf-arede&hide_border=true&background=00000000&ring=2b4acb&fire=2b4acb&currStreakNum=16161a&sideNums=16161a&currStreakLabel=2b4acb&sideLabels=5b5b66&dates=5b5b66&stroke=dddbd3" alt="Contribution streak"/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lf-arede/lf-arede/output/snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lf-arede/lf-arede/output/snake-light.svg"/>
   <img src="https://raw.githubusercontent.com/lf-arede/lf-arede/output/snake-light.svg" alt="An exile clearing the contribution map"/>
 </picture>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,postgres,python,docker&theme=dark" height="28" alt="TypeScript, Node.js, PostgreSQL, Python, Docker"/>
+<code>typescript</code> · <code>node</code> · <code>postgres</code> · <code>python</code> · <code>docker</code>
 
-<sub><a href="https://arede.cloud">arede.cloud</a> · just one more map</sub>
+<sub><a href="https://arede.cloud">arede.cloud</a> · <a href="https://www.linkedin.com/in/lf-arede">linkedin</a> · just one more map</sub>
 
 <!-- you found a Mirror of Kalandra. don't vendor it. -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a3631b,100:1a0f08&height=80&section=footer" width="100%" alt=""/>
 
 </div>
